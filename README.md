@@ -20,22 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mobilidade em Pauta 🚦
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um podcast totalmente gerado por inteligência artificial, dedicado à discussão sobre a integração de transportes e inteligência artificial em cidades latino-americanas. O podcast visa explorar como a tecnologia pode transformar a mobilidade urbana, abordar os desafios atuais e apresentar soluções inovadoras. Cada episódio contará com conteúdos informativos e narrativas dinâmicas, resultando em uma experiência auditiva envolvente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA de Texto: Utilizado o ChatGPT para criar roteiros, descrições e diálogos dos episódios, garantindo conteúdo relevante e fluido.
+IA de Voz: Utilizado o ElevenLabs  para gerar as vozes dos apresentadores e convidados, oferecendo uma experiência auditiva natural e envolvente.
+Edição de Áudio: Edição e junção dos audios com o Audacity para ajustar a qualidade sonora e adicionando efeitos e trilhas sonoras.
+Plataforma de Distribuição: O podcast foi hospedado na plataforma como Souncloud.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Planejamento: Defini o tema s do podcast, com um foco específico na integração de IA e transportes em várias cidades da América Latina, por exepriência própria no tema.
+Geração de Conteúdo: Utilizei IA para elaborar roteiros completos, incluindo perguntas e respostas, além de contextos e narrativas que promovam discussões informativas.
+Geração de Áudio: Com os roteiros prontos, gerei os áudios usando IA de voz, criando apresentações envolventes que simulem diálogos naturais entre os apresentadores e especialistas.
+Edição e Refinamento: Realizei a edição dos áudios para garantir uma apresentação profissional e coesa, ajustando a sonoridade e incorporando músicas de fundo que enriqueçam a experiência.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Episódio: Produzido um episódio que abrangeu o tema  de: "Como a IA Está Transformando o Transporte Público" apresentado por vozes geradas por IA.
+Link do Podcast: https://soundcloud.com/jennifer-domeneghini/podcastdio?si=d827a7bb79864cc898156a3c9a5ea871&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar um podcast totalmente gerado por inteligência artificial foi uma experiência inovadora e desafiadora. A capacidade de utilizar IA para gerar todos os elementos, desde o texto até os áudios, permitiu uma abordagem única. No entanto, a curadoria e o ajuste fino do conteúdo foram essenciais para garantir que a mensagem fosse clara e envolvente. 
 ```
 
 ### Exemplos e Insigths
